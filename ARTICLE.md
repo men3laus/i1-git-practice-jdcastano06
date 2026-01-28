@@ -9,3 +9,5 @@ This paper describes a retrieval‑augmented generation approach that combines m
 Practical relevance for software engineering includes improved code and documentation search, and designs for integrating multimodal context into existing RAG systems.
 
 
+
+Comment from [Tianze]: I read the article you shared and I found it very Interesting!
