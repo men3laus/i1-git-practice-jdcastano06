@@ -16,3 +16,7 @@ documentation, and other technical resources.
 
 
 Comment from [Tianze]: I read the article you shared and I found it very Interesting!
+
+## Comment by Vladimir Sontea
+
+I like the article selection and am interested in learning more from you!
